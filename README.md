@@ -1,4 +1,4 @@
-# Problem-2-1
+# Problem 2-1
 
 Ice cream Gridworld implementation
 
